@@ -5,7 +5,7 @@ I had two objectives in the beginning:
 1) Fulfill an Udacity Project for the data analyst Nanodegree
 2) Get the Know-How of data analysis
 
-After that, I added logistic regressions. But I'm not satisfied by the explained variation, so I will use Machine Learning technics when I will get this.
+After that, I added logistic regressions.
 
 ## Data
 The data consists of 100'000 medical appointments in Brazil, stocked in Kaggle and recommended by Udacity.
